@@ -1,5 +1,5 @@
 {
-  "name" : "timingservice",
+  "name" : "motionServer",
   "version" : "0.0.1",
   "main" : "./src/server.js",
   "user" : "tidoust",
